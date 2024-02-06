@@ -1,1 +1,2 @@
 # Python-Word-Game
+This project is a simple recreation of the popular word game Wordle. A file containing a list of 5 letter words is read by the program and a secret word is randomly selected. The user is prompted to enter a guess and is told how many letters are in the correct place, incorrect place, or not in the word based on the guess. The user has six tries to guess the correct word before the program stops and displays what the secret word was as well as the placement of their guesses. Further implementation of this program will allow the user to play multiple times.
